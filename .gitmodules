@@ -1,0 +1,6 @@
+[submodule "stmlib"]
+	path = stmlib
+	url = git@github.com:pichenettes/stmlib
+[submodule "stm_audio_bootloader"]
+	path = stm_audio_bootloader
+	url = git@github.com:pichenettes/stm-audio-bootloader
